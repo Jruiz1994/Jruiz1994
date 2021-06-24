@@ -7,11 +7,11 @@ Soy estudiante de la carrera de Desarrollo FullStack en la academia Coderhouse, 
 <a href="https://www.linkedin.com/in/jennifer-alejandra-ruiz-torlacoff/">Perfil de Linkedin</a>
 
 >_ Herramientas:
-JavaScript
-Html5
-CSS
-Bootstrap
-JQuery
-React JS
+- JavaScript
+- Html5
+- CSS
+- Bootstrap
+- JQuery
+- React JS
 
 ... y muchas otras que ya vendrán! ...
