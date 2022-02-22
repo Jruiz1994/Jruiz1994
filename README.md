@@ -1,7 +1,7 @@
 # Jennifer-Ruiz
 👋🏻 Hola, mi nombre es Jennifer Ruiz
 >_ Sobre mi:
-Soy estudiante de la carrera de Desarrollo FullStack en la academia Coderhouse, pero mi campo de interés es el backend.
+Soy egresada de la carrera de Desarrollo FullStack en la academia Coderhouse, pero mi campo de interés es el backend.
 
 >_ Encuéntrame en:
 <a href="https://www.linkedin.com/in/jennifer-alejandra-ruiz-torlacoff/">Perfil de Linkedin</a>
@@ -13,5 +13,8 @@ Soy estudiante de la carrera de Desarrollo FullStack en la academia Coderhouse, 
 - Bootstrap
 - JQuery
 - React JS
+- Node.js
+- MongoDB
+- MySQL
 
 ... y muchas otras que ya vendrán! ...
