@@ -8,12 +8,9 @@ Soy egresada de la carrera de Desarrollo FullStack en la academia Coderhouse, pe
 
 >_ Herramientas:
 - JavaScript
-- Html5
-- CSS
-- Bootstrap
-- JQuery
-- React JS
+- TypeScript
 - Node.js
+- Express
 - MongoDB
 - MySQL
 
